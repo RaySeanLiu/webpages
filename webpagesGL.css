@@ -1,0 +1,30 @@
+/*
+ *Name: [Ray-Sean Liu]
+ *UnityID: [rliu36]
+ *Date: [September 13, 2025]
+ *Assignment: [Webpages Lab]
+ *Description: [This is an assignment where I create an HTML and CSS page that are brief infographics about myself.]
+ */
+ 
+p {
+    font-family: Times;
+    font-size: 16px;
+    color: #DECAFF;
+}
+
+.table-border {
+    border: 1px solid #DECAFF;
+    border-collapse: collapse;
+}
+
+.table-border th,
+.table-border td {
+    border: 1px solid #DECAFF;
+    padding: 8px;
+}
+
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px;
+}
+\
